@@ -1,1 +1,4 @@
 .vs
+packages/
+x64/
+packages.config
